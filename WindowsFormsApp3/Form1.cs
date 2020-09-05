@@ -136,6 +136,8 @@ namespace WindowsFormsApp3
                 draw.DrawCurve(black, points);
             }
 
+            Console.WriteLine("ssss");
+
         }
         private void button2_Click(object sender, EventArgs e)
         {
